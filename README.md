@@ -93,14 +93,6 @@ Developed dashboard for hospitality business analytics and booking trends.
 - Introduction to Data Science — Cisco
 - IBM Machine Learning Introduction — Coursera
 
----
-
-# 📈 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Machine Learning Basics
-- Business Analytics
 
 ---
 
